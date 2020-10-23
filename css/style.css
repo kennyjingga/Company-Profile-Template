@@ -1,0 +1,9 @@
+body{
+	background: #17202A;
+	color: white;
+}
+
+#home{
+	min-height: 100vh;
+	padding-top: 55px;
+}
